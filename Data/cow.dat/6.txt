@@ -1,0 +1,7 @@
+tagNo: 6
+Gender: Female
+dateOfBirth: 11/11/1111
+Purchased: false
+Weight: 123.0
+Treatment: none
+milking: 0

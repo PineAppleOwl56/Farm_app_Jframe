@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Add_Vet">
+  <grid id="27dc6" binding="Add_Vet_To_Data" layout-manager="GridLayoutManager" row-count="13" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="513" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="632e4" class="javax.swing.JLabel" binding="Vet_Gender">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Please Choose Vet Gender"/>
+        </properties>
+      </component>
+      <component id="21e6d" class="javax.swing.JComboBox" binding="Combo_Box_Vet_Gender">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="77ec5" class="javax.swing.JLabel" binding="Vet_Degree_Status">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="183" height="16"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Does The Vet Have A Degree"/>
+        </properties>
+      </component>
+      <component id="cc46d" class="javax.swing.JComboBox" binding="Combo_Box_Vet_Degree">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="183" height="30"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="42ffc" class="javax.swing.JTextField" binding="Text_Vet_Graduation_Date">
+        <constraints>
+          <grid row="7" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="183" height="30"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="d6cd7" class="javax.swing.JLabel" binding="Graduation_Date">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="183" height="16"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="When Did The Vet Graduate"/>
+        </properties>
+      </component>
+      <component id="3ce0a" class="javax.swing.JLabel" binding="Vet_Experience">
+        <constraints>
+          <grid row="8" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="183" height="16"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Please Specify Vet's Experience"/>
+        </properties>
+      </component>
+      <component id="1435d" class="javax.swing.JTextField" binding="Text_Vet_Experience">
+        <constraints>
+          <grid row="9" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="183" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <hspacer id="265d5">
+        <constraints>
+          <grid row="0" column="3" row-span="6" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="18612">
+        <constraints>
+          <grid row="0" column="0" row-span="10" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="c8031">
+        <constraints>
+          <grid row="12" column="1" row-span="1" col-span="2" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="175" height="11"/>
+          </grid>
+        </constraints>
+      </hspacer>
+      <component id="4f7ec" class="javax.swing.JLabel" binding="Vets_DOB">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="171" height="16"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Please Enter Vets Date Of Birth"/>
+        </properties>
+      </component>
+      <component id="f3f53" class="javax.swing.JTextField" binding="Vets_Date_Of_Birth">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="2eeae" class="javax.swing.JButton" binding="Save">
+        <constraints>
+          <grid row="11" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="140" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Save"/>
+        </properties>
+      </component>
+      <component id="994ee" class="javax.swing.JButton" binding="All_Done">
+        <constraints>
+          <grid row="11" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="133" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Return"/>
+        </properties>
+      </component>
+      <component id="9b31d" class="javax.swing.JLabel" binding="Errorms">
+        <constraints>
+          <grid row="10" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

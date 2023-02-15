@@ -1,0 +1,32 @@
+tagNo: 1
+Gender: Female
+dateOfBirth: 11/10/2000
+Purchased: false
+Weight: 12.2
+Treatment: health: 1 cleaning: 1
+HEALTH:
+Date: 16/11/2022
+Details: tamol2
+Emergency: true
+VetID: 2
+Gender: Female
+Date: 16/11/2022
+Degree: false
+Exlevel: 3
+Medication: 01
+Details: asd2
+Duration: 12
+Start: 16/11/2022
+Dosage: 12.2
+Notes: none
+CLEANING:
+Date: 16/11/2022
+Materials used: brush
+FarmerID: 4
+Gender: Male
+Date: 16/11/2022
+Previous Farm Name: : : Bes1tFarm
+Exlevel: 12
+milking: 1
+Date: 16/11/2022
+Amount: 12.2

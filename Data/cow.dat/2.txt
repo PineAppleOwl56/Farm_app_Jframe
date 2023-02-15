@@ -1,0 +1,31 @@
+tagNo: 2
+Gender: Male
+dateOfBirth: 16/11/2022
+Purchased: true
+Weight: 13.2
+Treatment: health: 1 cleaning: 1
+HEALTH:
+Date: 16/11/2022
+Details: tamol2
+Emergency: false
+VetID: 1
+Gender: Male
+Date: 11/10/2000
+Degree: true
+Date: 16/11/2022
+Exlevel: 5
+Medication: 01
+Details: asd3
+Duration: 13
+Start: 16/11/2022
+Dosage: 13.2
+Notes: none
+CLEANING:
+Date: 16/11/2022
+Materials used: brush, shovel
+FarmerID: 3
+Gender: Female
+Date: 16/10/2000
+Previous Farm Name: : : BestFarm
+Exlevel: 15
+milking: 0

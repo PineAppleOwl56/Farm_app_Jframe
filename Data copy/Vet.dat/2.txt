@@ -1,0 +1,5 @@
+VetID: 2
+Gender: Female
+Date: 16/11/2022
+Degree: false
+Exlevel: 3

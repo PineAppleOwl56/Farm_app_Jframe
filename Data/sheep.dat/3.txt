@@ -1,0 +1,28 @@
+tagNo: 3
+Gender: Female
+dateOfBirth: 16/11/2022
+Purchased: true
+Treatment: health: 1 cleaning: 1
+HEALTH:
+Date: 16/11/2022
+Details: tamol2
+Emergency: true
+VetID: 2
+Gender: Female
+Date: 16/11/2022
+Degree: false
+Exlevel: 3
+Medication: 01
+Details: asd2
+Duration: 12
+Start: 16/11/2022
+Dosage: 12.2
+Notes: none
+CLEANING:
+Date: 16/11/2022
+Materials used: brush
+FarmerID: 3
+Gender: Female
+Date: 16/10/2000
+Previous Farm Name: : : BestFarm
+Exlevel: 15

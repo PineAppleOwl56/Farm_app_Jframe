@@ -1,0 +1,7 @@
+tagNo: 5
+Gender: Male
+dateOfBirth: 16/11/2022
+Purchased: false
+Weight: 12.1
+Treatment: none
+milking: 0
